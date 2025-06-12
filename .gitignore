@@ -83,4 +83,6 @@ docs/_build/
 Thumbs.db
 .DS_Store
 
-*res
+pid_mode_res
+file_mode_res
+process_mode_res
